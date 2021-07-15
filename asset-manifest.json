@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.004628/static/css/main.c6de0a7d.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.004628/static/js/main.cb20a60a.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.004628/static/js/runtime-main.b50e2fa3.js",
-    "static/js/2.ee483429.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.004628/static/js/2.ee483429.chunk.js",
-    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.004628/index.html",
-    "static/js/2.ee483429.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.004628/static/js/2.ee483429.chunk.js.LICENSE.txt",
-    "static/media/logo.9721644f.png": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.004628/static/media/logo.9721644f.png"
+    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.160105/static/css/main.c6de0a7d.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.160105/static/js/main.cb20a60a.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.160105/static/js/runtime-main.2b310393.js",
+    "static/js/2.ee483429.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.160105/static/js/2.ee483429.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.160105/index.html",
+    "static/js/2.ee483429.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.160105/static/js/2.ee483429.chunk.js.LICENSE.txt",
+    "static/media/logo.9721644f.png": "https://cdn.jsdelivr.net/gh/ethsana/ethsana-front-online@20210715.160105/static/media/logo.9721644f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b50e2fa3.js",
+    "static/js/runtime-main.2b310393.js",
     "static/js/2.ee483429.chunk.js",
     "static/css/main.c6de0a7d.chunk.css",
     "static/js/main.cb20a60a.chunk.js"
